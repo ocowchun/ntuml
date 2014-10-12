@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ocowchun/ntuml/issues"
   },
-  "homepage": "https://github.com/ocowchun/ntuml"
+  "homepage": "https://github.com/ocowchun/ntuml",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
 }
